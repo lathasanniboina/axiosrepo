@@ -1,0 +1,5 @@
+# Handle line endings automatically
+* text=auto
+
+# Specific rule for JSON files
+*.json text
